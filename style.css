@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.rer{
+  display: flex;
+}
+body{
+    background-color: rgba(15, 5, 148, 0.212);
+}
+.container{
+  max-width: 1200px;
+  margin: auto;
+  justify-content: center;
+  display: flex;
+}
